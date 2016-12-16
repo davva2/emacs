@@ -20,7 +20,7 @@
 ;; shortcut you don't like, you can (and should!) always change it to
 ;; something that you do like.
 
-;; ===========
+;; ============
 ;; Appearance
 ;; ===========
 
