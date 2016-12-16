@@ -1,0 +1,8 @@
+language: c
+
+addons:
+  ssh_known_hosts:
+  - tussilago@it.uu.se
+  - fries@it.uu.se
+  
+script: make
